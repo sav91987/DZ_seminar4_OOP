@@ -1,7 +1,6 @@
 package Controllers;
 
 import Domen.Emploee;
-import Domen.Person;
 import Services.EmploeeService;
 //import Services.StudentService;
 
